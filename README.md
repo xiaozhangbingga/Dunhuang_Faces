@@ -1,6 +1,6 @@
 # Dunhuang_Faces
 一个关于敦煌地区壁画中人脸形象的数据集.
-![Dunhuang_Faces](data.pdf)
+![Dunhuang_Faces](data.jpg)
 ***
 ## 关于数据集
 数据集由论文"[Dunhuang_Faces: A Dataset Enhanced through Image Processing for Cultural Heritage and Machine Learning](
