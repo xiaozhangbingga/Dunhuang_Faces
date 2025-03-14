@@ -27,7 +27,7 @@ https://doi.org/10.18280/ts.420148)"提供, 原始数据来源为"[数字敦煌]
   - [ ] 描述性文本优化
 ***
 ## 下载地址
-[Dunhuang_Faces](https://drive.google.com/drive/folders/16ohSYEPLvZyc2Qn7L3XjqUnW9tCuRgzc?usp=drive_link)
+[Dunhuang_Faces](https://drive.google.com/drive/folders/16ohSYEPLvZyc2Qn7L3XjqUnW9tCuRgzc?usp=sharing)
 ***
 # Dunhuang_Faces
 A dataset of facial images from murals in the Dunhuang region.
@@ -58,4 +58,4 @@ https://doi.org/10.18280/ts.420148)", with the original data sourced from "[Digi
   - [ ] Text description optimization
 ***
 ## Download link
-[Dunhuang_Faces](https://drive.google.com/drive/folders/16ohSYEPLvZyc2Qn7L3XjqUnW9tCuRgzc?usp=drive_link)
+[Dunhuang_Faces](https://drive.google.com/drive/folders/16ohSYEPLvZyc2Qn7L3XjqUnW9tCuRgzc?usp=sharing)
